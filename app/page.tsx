@@ -124,7 +124,7 @@ export default function DesignSystemPage() {
               </p>
               <h3 className="text-lg font-semibold text-neutral-800">Passo 1: Obter os arquivos</h3>
               <p className="text-neutral-600">
-                Clone o repositório ou copie manualmente a pasta <code className="bg-neutral-200 px-1.5 py-0.5 rounded text-sm">components</code> e
+                <a href="https://github.com/JackMatiazzi/Faccupoint-DS" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline font-medium">Repositório</a>, clone ou copie manualmente a pasta <code className="bg-neutral-200 px-1.5 py-0.5 rounded text-sm">components</code> e
                 o arquivo <code className="bg-neutral-200 px-1.5 py-0.5 rounded text-sm">app/globals.css</code> para seu projeto.
               </p>
               <h3 className="text-lg font-semibold text-neutral-800">Passo 2: Configurar o alias</h3>
